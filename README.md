@@ -8,3 +8,4 @@
 ### Try Out [Jellyfish](https://jellyfishing.netlify.app/) 
 
 
+![IMG_6976](https://github.com/lcelisse/Jellyfish/assets/105749905/9eda62da-00c1-4930-9e74-e765abba7356)
