@@ -11,3 +11,9 @@ A flappy bird clone for spongebob lovers!!
 
 
 ![IMG_6976](https://github.com/lcelisse/Jellyfish/assets/105749905/9eda62da-00c1-4930-9e74-e765abba7356)
+
+## Next Features
+
+- score board
+- custom players
+
