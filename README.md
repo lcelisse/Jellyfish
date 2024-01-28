@@ -16,4 +16,4 @@ A flappy bird clone for spongebob lovers!!
 
 - score board
 - custom players
-
+- fix top border ( you can fly to the top )
